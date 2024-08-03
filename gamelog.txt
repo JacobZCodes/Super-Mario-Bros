@@ -1,0 +1,733 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (1,2)
+Power Level 0
+Mario picks up a coin
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| x b x 
+1| g g H 
+2| m x w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (1,1)
+Power Level 0
+Mario defeats Goomba!
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| x b x 
+1| g H x 
+2| m x w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (2,1)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| x b x 
+1| g x x 
+2| m H w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (1,1)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| x b x 
+1| g H x 
+2| m x w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (2,1)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| x b x 
+1| g x x 
+2| m H w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (2,0)
+Power Level 1
+Mario picks up a mushroom
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| x b x 
+1| g x x 
+2| H x w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (0,0)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| H b x 
+1| g x x 
+2| x x w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 1
+Mario is at (0,1)
+Power Level 1
+Mario defeats Boss!
+Lives: 3
+Coins: 1
+Mario will move RIGHT
+   0 1 2 
+0| x H x 
+1| g x x 
+2| x x w 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 2
+Mario is at (2,1)
+Power Level 1
+Mario defeats Boss!
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| m m m 
+1| g g k 
+2| w H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,1)
+Power Level 2
+Mario picks up a mushroom
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b H x 
+1| c m k 
+2| m g g 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,1)
+Power Level 2
+Mario picks up a mushroom
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c H k 
+2| m g g 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 1
+Goomba defeats Mario!
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x k 
+2| m g g 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 1
+Mario defeats Goomba!
+Lives: 3
+Coins: 1
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| c x k 
+2| m g H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 1
+Mario defeats Goomba!
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x k 
+2| m H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b H x 
+1| c x k 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c H k 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,2)
+Power Level 1
+Mario defeats Koopa!
+Lives: 3
+Coins: 1
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| c x H 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c H x 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b H x 
+1| c x x 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c H x 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x x 
+2| m H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c H x 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| c x H 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x x 
+2| m x H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x H 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x x 
+2| m x H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x H 
+1| c x x 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x x 
+2| m x H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x H 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x x 
+2| m x H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x H 
+1| c x x 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b H x 
+1| c x x 
+2| m x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x x 
+2| m H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,0)
+Power Level 2
+Mario picks up a mushroom
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x x 
+2| H x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| c x x 
+2| x H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| c x x 
+2| x x H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,2)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 1
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| c x H 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,0)
+Power Level 2
+Mario picks up a coin
+Lives: 3
+Coins: 2
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| H x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,0)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| H x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x x H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,1)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b H x 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,2)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x x H 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,2)
+Power Level 2
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x H 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,0)
+Power Level 1
+Boss defeats Mario!
+Lives: 3
+Coins: 2
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,2)
+Power Level 1
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x H 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,0)
+Power Level 0
+Boss defeats Mario!
+Lives: 3
+Coins: 2
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,2)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x H 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,2)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x H 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,1)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x H x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,0)
+Power Level 0
+Mario encounters an empty space
+Lives: 3
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| H x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,0)
+Power Level 0
+Boss defeats Mario!
+Lives: 2
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,0)
+Power Level 0
+Mario encounters an empty space
+Lives: 2
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| H x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,0)
+Power Level 0
+Boss defeats Mario!
+Lives: 1
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,0)
+Power Level 0
+Mario encounters an empty space
+Lives: 1
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| H x x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (1,1)
+Power Level 0
+Mario encounters an empty space
+Lives: 1
+Coins: 2
+Mario will move RIGHT
+   0 1 2 
+0| b x x 
+1| x H x 
+2| x x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,1)
+Power Level 0
+Mario encounters an empty space
+Lives: 1
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| x H x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (2,0)
+Power Level 0
+Mario encounters an empty space
+Lives: 1
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| b x x 
+1| x x x 
+2| H x x 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+LEVEL 3
+Mario is at (0,0)
+Power Level 0
+Mario defeats Boss!
+Lives: 1
+Coins: 2
+Mario will move UP
+   0 1 2 
+0| H x x 
+1| x x x 
+2| x x x 
+MARIO DEFEATED THE FINAL BOSS AND SAVED THE PRINCESS!
