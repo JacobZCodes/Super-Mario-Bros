@@ -1,9 +1,7 @@
 #ifndef Level_h
 #define Level_h
-struct Coordinates {
-    int row;
-    int column;
-};
+#include "GameSymbols.h"
+
 
 struct Range {
     int lower;
@@ -18,6 +16,6 @@ class Level {
         void initializeUniqueGameSymbols(int boardSize, int uninitializedSquares);
         void initializeCommonGameSymbols(int boardSize, int uninitializedSquares);
     private:
-        char** board;
+        GameSymbol** board;
 };  
 #endif

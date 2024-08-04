@@ -2,6 +2,7 @@
 #include "InputHandler.h"
 #include "GameSymbols.h"
 #include <random>
+
 void Level::createBlankBoard(int size) {
     board = new char*[size];
     for (int row=0; row<size; row++) {
@@ -34,15 +35,19 @@ Coordinates Level::findUnitializedSquare(int boardSize) {
 // MARIO, BOWSER, WARP PIPE 
 void Level::initializeUniqueGameSymbols(int boardSize, int uninitializedSquares) {
     Coordinates pos1 = findUnitializedSquare(boardSize);
-    board[pos1.row][pos1.column] = MARIO;
+    SymbolName mario = {MARIO};
+    board[pos1.row][pos1.column] = new Mario(pos1, mario);
     uninitializedSquares--;
 
+
     Coordinates pos2 = findUnitializedSquare(boardSize);
-    board[pos2.row][pos2.column] = BOWSER;
+    SymbolName bowser = {BOWSER};
+    board[pos2.row][pos2.column] = new Bowser(pos2, bowser);
     uninitializedSquares--;
 
     Coordinates pos3 = findUnitializedSquare(boardSize);
-    board[pos3.row][pos3.column]  = WARP_PIPE;
+    SymbolName warpPipe = {WARP_PIPE};
+    board[pos3.row][pos3.column]  = 3; // CHANGE ME TO WARP OBJECT
     uninitializedSquares--;
 
     return;

@@ -1,12 +1,52 @@
 #ifndef GameSymbols_h
 #define GameSymbols_h
 
-extern const char const MARIO;
-extern const char const BOWSER;
-extern const char const KOOPA;
-extern const char const GOOMBA;
-extern const char const MUSHROOM;
-extern const char const COIN;
-extern const char const WARP_PIPE;
+extern const char MARIO;
+extern const char BOWSER;
+extern const char KOOPA;
+extern const char GOOMBA;
+extern const char MUSHROOM;
+extern const char COIN;
+extern const char WARP_PIPE;
+
+struct SymbolName {
+    char name;
+};
+
+struct Coordinates {
+    int row;
+    int column;
+};
+
+
+class GameSymbol {
+    public:
+        GameSymbol(Coordinates position, SymbolName name);
+        Coordinates position;
+        SymbolName name;
+
+};
+
+class Mario: public GameSymbol {
+    public:
+        Mario(Coordinates position, SymbolName name);
+        int HP; // 3 HP to start with
+        int powerLevel; // 0 - 2, tanks hit for HP
+        int killCount; // +1 HP at 7 kills
+        int coins; // +1 HP at 20 coins
+        void takesDamage();
+};  
+
+class Enemy: virtual public GameSymbol {
+    public:
+        void encounters(Mario* mario);
+        int encounterChance; // to beat Mario in a fight
+};
+
+class Bowser: public Enemy {
+    public:
+        Bowser(Coordinates position, SymbolName name);
+        void encounters(Mario mario);
+};
 
 #endif // GameSymbols_h
