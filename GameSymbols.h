@@ -39,14 +39,10 @@ class Mario: public GameSymbol {
 
 class Enemy: virtual public GameSymbol {
     public:
-        void encounters(Mario* mario);
+        Enemy(Coordinates position, SymbolName name, int encounterChance);
+        void encounters(Mario* mario); 
         int encounterChance; // to beat Mario in a fight
 };
 
-class Bowser: public Enemy {
-    public:
-        Bowser(Coordinates position, SymbolName name);
-        void encounters(Mario mario);
-};
 
 #endif // GameSymbols_h

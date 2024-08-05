@@ -3,6 +3,11 @@
 #include <string>
 #include <stdexcept>
 
+
+InputHandler::InputHandler() {
+    ; // do nothing
+}
+
 int InputHandler::askForBoardSize() {
     std::string input;
     int boardSize;
@@ -184,7 +189,7 @@ int InputHandler::askForPercentEmpty() {
 }
 
 InitializationSpecs InputHandler::askForInitializationSpecs(){
-    int boardSize = boardSize();
+    int boardSize = askForBoardSize();
     int percentCoins, percentGoombas, percentKoopas, percentMushrooms, percentEmpty;
     while (true){
         percentCoins = askForPercentCoins();

@@ -38,6 +38,10 @@ void Mario::takesDamage() {
 
 }
 
+Enemy::Enemy(Coordinates position, SymbolName name, int encounterChance) : GameSymbol(position, name) {
+    this->encounterChance = encounterChance;
+} 
+
 void Enemy::encounters(Mario* mario) {
     int encounterChance = (rand() % 100) + 1; // 1 - 100
     if (this->encounterChance <= encounterChance) { // Enemy wins
@@ -52,11 +56,5 @@ void Enemy::encounters(Mario* mario) {
             mario->position = this->position;
         }
         delete this; // remove symbol from board
-
     }
-
-}
-
-Bowser::Bowser(Coordinates position, SymbolName name) : GameSymbol(position, name) {
-    this->encounterChance = 50;
 }

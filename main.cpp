@@ -1,15 +1,16 @@
 #include "InputHandler.h"
 #include "GameSymbols.h"
+#include "Level.h"
 #include <iostream>
 #include <string>
 #include <stdexcept>
 
 int main() {
-    // InputHandler handler;
-    // InitializationSpecs initializationSpecs = handler.askForInitializationSpecs();
-    Coordinates coords = {10,4};
-    SymbolName name = {'M'};
-    Mario* newMario = new Mario(coords, name);
+    InputHandler handler;
+    InitializationSpecs initializationSpecs = handler.askForInitializationSpecs();
+    Level level;
+    level.createBlankBoard(initializationSpecs.boardSize);
+    level.fillBlankBoard(initializationSpecs.boardSize, initializationSpecs);
     
     return 0;
 }
